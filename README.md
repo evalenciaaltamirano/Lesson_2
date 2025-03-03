@@ -1,1 +1,1 @@
-# Lesson_2
+# Lesson_2 was more about the history of who created HTML and how it all started. It was publishrd to be open source in Europe for anybody who is anybody can work with this open source to make it a better version by everyody adding imporvements little by little. The langague did it's purpose at the sense to be easy to read and easy to type for the process of editing and simple for anybody who is progressing in this career.
